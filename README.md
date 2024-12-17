@@ -5,7 +5,8 @@ This is Notebook for my studied and For my future
 
 ## Table of Content
 
-1. [TypeScript](TypeScript)
+1. [Java](Java)
+2. [TypeScript](TypeScript)
    - [Type In TypeScript](TypeScript/type.md)
    
 
