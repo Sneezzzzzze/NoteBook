@@ -1,5 +1,10 @@
 # Types in TypeScript
 
+[Boolean](#boolean) [Number](#number) [String](#string) [Array](#array) [Tuple](#tuple)
+
+[Enum](#enum) [Any](#any) [Void](#void) [Never](#never) [User defined Type](#user-defined-type) [Union](#union---)
+
+
 ### Boolean
 ```typescript
     let isLogin : boolean = false;
