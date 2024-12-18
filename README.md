@@ -81,7 +81,23 @@ This is Notebook for my studied and For my future
       </ol>
    </details>
 2. [TypeScript](TypeScript)
-   - [Type In TypeScript](TypeScript/type.md)
+   <details>
+      <summary>Types of TS </summary>
+      <ol>
+          <li><a href="TypeScript/Types of TS/PartOne.md">PartOne</a></li>
+          <li><a href="TypeScript/Types of TS/PartTwo.md">PartTwo</a></li>
+          <li><a href="TypeScript/Types of TS/PartThree.md">PartThree</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary>Function</summary>
+      <ol>
+         <li><a href="TypeScript/Function/Call%20Signatures.md">Call Signatures</a></li>
+         <li><a href="TypeScript/Function/Polymorphism.md">Polymorphism</a></li>
+         <li><a href="TypeScript/Function/Overloading.md">Overloading</a></li>
+         <li><a href="TypeScript/Function/Generic.md">Generic</a></li>
+      </ol>
+   </details>
    
 ## Authors
 
