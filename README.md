@@ -98,7 +98,18 @@ This is Notebook for my studies and For my future
          <li><a href="TypeScript/Function/Generic.md">Generic</a></li>
       </ol>
    </details>
-   
+   <details>
+      <summary>Classes and Interface</summary>
+      <ol>
+         <li>
+            <a href="TypeScript/Classes%20and%20Interface/Classes.md">Classes</a>
+         </li>
+         <li>
+            <a href="TypeScript/Classes%20and%20Interface/Interfaces.md">Interfaces</a>
+         </li>
+      </ol>
+   </details>
+
 ## Authors
 
 - [@Sneezzzzzze](https://www.github.com/Sneezzzzzze)
