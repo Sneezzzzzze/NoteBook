@@ -109,6 +109,14 @@ This is Notebook for my studies and For my future
          </li>
       </ol>
    </details>
+    <details>
+        <summary>MiniProject</summary>
+            <ol>
+            <li>
+               <a href="TypeScript/Mini%20Project">MiniProject</a>
+            </li>
+            </ol>
+    </details>
 
 ## Authors
 

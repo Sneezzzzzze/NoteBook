@@ -1,0 +1,24 @@
+/*
+  include -> files to be included in the compilation
+  compilerOptions -> options for the compiler
+    outDir -> output directory for the compiled files
+    target -> target version of ECMAScript
+    lib -> libraries to be included in the compilation
+    strict -> enable all strict type-checking options
+*/
+
+{
+  "include": [
+    "src"
+  ],
+    "compilerOptions": {
+      "outDir": "build",
+      "target": "ES6",
+      "lib": [
+        "ES6",
+      ],
+      "strict": true,
+      "esModuleInterop": true,
+      "module": "CommonJS"
+    }
+}

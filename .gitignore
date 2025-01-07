@@ -157,3 +157,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/webstorm,windows,git
+/TypeScript/Mini Project/build/
+/TypeScript/Mini Project/node_modules/
