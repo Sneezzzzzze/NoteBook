@@ -113,7 +113,7 @@ This is Notebook for my studies and For my future
         <summary>MiniProject</summary>
             <ol>
             <li>
-               <a href="TypeScript/Mini%20Project">MiniProject</a>
+               <a href="TypeScript/Mini%20Project">Block Chain</a>
             </li>
             </ol>
     </details>
