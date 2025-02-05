@@ -1,6 +1,6 @@
 # NoteBook
 
-This is Notebook for my studies and For my future
+This is Notebook for my study and For my future
 
 ## Table of Content
 
