@@ -122,7 +122,7 @@ This is Notebook for my study and For my future
       <summary>Bank & Dictionary</summary>
       <ol>
          <li>
-            <a href="GO"
+            <a href="GO/Bank&Dictionary%20Projects">Bank & Dictionary</a>
          </li>
       </ol>
    </details>
