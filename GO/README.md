@@ -137,3 +137,28 @@ func main() {
 	fmt.Println(nico.name)
 }
 ```
+
+# Goroutines
+``` 
+main func does't wait for goroutines
+```
+```go
+func main() {
+    c := make(chan string) // create a channel
+	people := [2]string{"John", "Doe"}
+	for _, person := range people {
+		go isSexy(person, c)
+	}
+	fmt.Println(<-c) // receive from channel
+	fmt.Println(<-c)
+    // better way
+    for i := 0; i < len(people); i++ {
+		fmt.Print("waiting for ", i)
+		fmt.Println(<-c)
+	}
+}
+func isSexy(person string, c chan string) {
+	time.Sleep(time.Second * 5)
+	c <- person + " is sexy" // send to channel
+}
+```
